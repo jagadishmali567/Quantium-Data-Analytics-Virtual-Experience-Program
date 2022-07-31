@@ -13,8 +13,11 @@ Here is task :-
 
 
            • Examine transaction data - check for missing data, anomalies, outliers and clean them
+           
            • Examine customer data - similar to above transaction data
+           
            • Data analysis and customer segments - create charts and graphs, note trends and insights
+           
            • Deep dive into customer segments - determine which segments should be targetted
            
            
