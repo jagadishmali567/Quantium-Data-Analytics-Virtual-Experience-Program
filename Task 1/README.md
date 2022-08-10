@@ -1,9 +1,8 @@
-Task 1 :-
-Data preparation and customer analytics
+## Task 1 :- Data preparation and customer analytics
 
 Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 
-The background information for this task :-
+**The background information for this task :-**
 
 ♦ I am part of Quantium’s retail analytics team and have been approached by our client, the Category Manager for Chips, who wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region.
     
