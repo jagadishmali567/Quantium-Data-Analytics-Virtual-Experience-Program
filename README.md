@@ -1,7 +1,7 @@
 ![download](https://user-images.githubusercontent.com/27211670/182025849-09465e4c-7e4f-4d10-bdbf-427385815d20.png)
 
 
-**Quantium Data Analytics Virtual Experience Program**
+# Quantium Data Analytics Virtual Experience Program
 
 ♦ This is virtual experience program consists of 3 tasks.
 
